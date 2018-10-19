@@ -1,4 +1,4 @@
-# Simple-TicTacToe
+# TicTacToe
 
 This is example of TicTacToe.
 
